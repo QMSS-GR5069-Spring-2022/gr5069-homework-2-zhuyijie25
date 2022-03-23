@@ -185,3 +185,9 @@ docs/
 
 # translation temp files
 po/*~
+
+# data files
+*.csv
+*.xlsx
+*.xlsm
+*.xlsb
